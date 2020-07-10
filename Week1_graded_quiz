@@ -1,0 +1,107 @@
+1.Question 1
+Why are liquid crystals considered to be in between solids and liquids?
+Ans:All the above(They have some of the properties of solids and some of the properties of liquids.
+                  They have some order of the molecule.
+                  This state exists at a temperature range in between the fully solid phase and the fully liquid phase.)
+2.Question 2
+The smectic C phase of liquid crystals has:
+Abs:2-dimensional ordering
+3.Question 3
+The neumatic phase of liquid crystals has:
+4.Question 4
+What do you expect the order parameter to do as a function of temperature?
+Ans:Decrease
+5.Question 5
+Are liquid crystals polarization dependent?
+Ans:Yes
+6.Question 6
+Justify your answer to Problem 5. Why is this the case?
+7.Question 7
+You want to make a waveplate out of calcite, with a total retardance of \pi/2π/2. Write down an expression for the thickness of the waveplate, in terms of:
+n_o, ordinary refractive index
+n_e, extraordinary refractive index
+lambda, optical wavelength
+Constants should be entered with one significant figure
+L = ...
+Ans:
+8.Question 8
+What are integral parts of a liquid crystal cell?
+Ans:All of the above(Polarizers
+                     Alignment layer
+                     Electrode
+                     Passivation layer)
+9.Question 9
+The electrical field of an incident plane wave is given as
+
+E= \hat x A+\hat y A
+E= 
+x
+^
+ A+ 
+y
+^
+​	
+ A
+
+where AA is a constant. What is polarization of electric field?
+Ans:
+10.Question 10
+The Jones vector is of the form
+[ab]
+where a and b are integers. For the field described in Problem 9, please input answer for a.
+11.Question 11
+The Jones vector is of the form
+[ab]
+where a and b are integers. For the field described in Problem 9, please input answer for b.
+12.Question 12
+The field in Problems 10 and 11 propagates through a liquid crystal. What kind of polarizations are possible at output?
+Ans:All of the above(Linear
+                     Circular
+                     Elliptical)
+13.Question 13
+What factors determine the answer to Problem 12?
+Ans:All of the above(Liquid crystal thickness
+                     Liquid crystal orientation
+                     Amount of birefringence)
+14.Question 14
+What is the purpose of the compensation foil?
+Ans:Allow operation of liquid crystal cell at multiple wavelengths
+15.Question 15
+What does ‘normally black mode’ mean?
+16.Question 16
+A super-twisted nematic cell differs from a twisted nematic cell in the following ways:
+17.Question 17
+The Jones matrix is of the form
+[a,b c,d]
+Calculate the Jones matrix of a polarizer, aligned to x axis, that is rotated by 45 degrees. Please input answer for a.
+18.Question 18
+The Jones matrix is of the form
+[a,b c,d]
+Calculate the Jones matrix of a polarizer, aligned to x axis, that is rotated by 45 degrees. Please input answer for b.
+19.Question 19
+The Jones matrix is of the form
+[a,b c,d]
+Calculate the Jones matrix of a polarizer, aligned to x axis, that is rotated by 45 degrees. Please input answer for c.
+20.Question 20
+The Jones matrix is of the form
+[a,b c,d]
+Calculate the Jones matrix of a polarizer, aligned to x axis, that is rotated by 45 degrees. Please input answer for d.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  
