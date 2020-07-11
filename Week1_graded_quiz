@@ -5,9 +5,10 @@ Ans:All the above(They have some of the properties of solids and some of the pro
                   This state exists at a temperature range in between the fully solid phase and the fully liquid phase.)
 2.Question 2
 The smectic C phase of liquid crystals has:
-Abs:2-dimensional ordering
+Ans:2-dimensional ordering
 3.Question 3
 The neumatic phase of liquid crystals has:
+Ans:1-dimensional ordering
 4.Question 4
 What do you expect the order parameter to do as a function of temperature?
 Ans:Decrease
@@ -16,6 +17,7 @@ Are liquid crystals polarization dependent?
 Ans:Yes
 6.Question 6
 Justify your answer to Problem 5. Why is this the case?
+Ans:Molecules are anisotropic
 7.Question 7
 You want to make a waveplate out of calcite, with a total retardance of \pi/2π/2. Write down an expression for the thickness of the waveplate, in terms of:
 n_o, ordinary refractive index
@@ -68,8 +70,11 @@ What is the purpose of the compensation foil?
 Ans:Allow operation of liquid crystal cell at multiple wavelengths
 15.Question 15
 What does ‘normally black mode’ mean?
+Ans:With no applied voltage, light is blocked by polarizers and display appears dark
 16.Question 16
 A super-twisted nematic cell differs from a twisted nematic cell in the following ways:
+Ans:Answers (A) and (C)(It is thicker
+                        It provides more polarisation rotation)
 17.Question 17
 The Jones matrix is of the form
 [a,b c,d]
