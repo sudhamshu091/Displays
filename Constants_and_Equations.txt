@@ -1,5 +1,5 @@
 References
-The references below are optional, but a great additional resource for you:
+The references below are optional, but a great additional resource for you :
 
 V. G. Chigrinov, Liquid Crystal Devices, Artech, 1999.
 
