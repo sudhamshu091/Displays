@@ -14,7 +14,7 @@ GaAs material parameters:
 Bandgap energy at 300K: E_gE 
 g
 ​	
-  = 1.42 eV
+  =1.42 eV
 
 Electron affinity: \chi_{si}χ 
 si
